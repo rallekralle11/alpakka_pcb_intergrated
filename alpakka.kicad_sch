@@ -9211,7 +9211,7 @@
     (property "Value" "Crystal_16Mhz" (at 127 87.63 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm" (at 132.08 96.52 0)
+    (property "Footprint" "Crystal:Crystal_SMD_2520-4Pin_2.5x2.0mm" (at 132.08 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 132.08 96.52 0)
